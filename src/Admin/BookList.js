@@ -85,7 +85,7 @@ class ListBook extends Component {
                     <TableHead>
                         <TableRow>
                              
-                            <TableCell align="left">Title</TableCell>
+                            
                             <TableCell align="left">Title</TableCell>
                             <TableCell align="left">CoverPhoto</TableCell>
                             <TableCell align="left">author</TableCell>
