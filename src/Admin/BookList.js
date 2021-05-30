@@ -112,7 +112,7 @@ class ListBook extends Component {
                                 <TableCell align="left">{row.title}</TableCell>
                                 <TableCell align="left"><img src={row.coverPhotoURL} alt= "avatar" width="150" height="150" /></TableCell>
                                 <TableCell align="left">{row.author}</TableCell>
-                                <TableCell align="left">{row.isnuNumber}</TableCell>
+                                <TableCell align="left">{row.isbnNumber}</TableCell>
                                 <TableCell align="left">{row.price}</TableCell>
                                 <TableCell align="left">{row.language}</TableCell>
                                 <TableCell align="left">{row.genre}</TableCell>

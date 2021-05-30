@@ -55,7 +55,7 @@ class EditBook extends Component {
                     isbnNumber:book.isbnNumber,
                     price:book.price,
                     language:book.language,
-                    genre:book.genere
+                    genre:book.genre
                 })
             });
     }
